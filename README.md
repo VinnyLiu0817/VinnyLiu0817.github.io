@@ -24,6 +24,8 @@
 
 We propose a novel algorithm, named **CoOptFL**, by quantifying the interplay of mini-batch size and aggregation frequency to navigate the trade-offs among model convergence, completion time, and resource cost in federated learning. Based on which, we propose an online adaptive optimization algorithm **AdaCoOpt** by integrating the online estimates of the fluctuating edge network characteristics into CoOptFL. Experiments show a **37.6%** reduction in the total training cost under a cost-sensitive scenario, and can achieve a **2.7%–7.9%** higher final test accuracy than baselines
 
+![AdaCoOpt](/fig/AdaCoOpt.png)
+
 ## Publications
 1. **W. Liu**, X. Zhang, J. Duan, C. Joe-Wong, Z. Zhou and X. Chen, AdaCoOpt: Leverage the Interplay of Batch Size and Aggregation Frequency for Federated Learning, accepted to **IEEE/ACM IWQoS 2023 (Best Paper Finalist)**.
 2. **W. Liu**, X. Zhang, J. Duan, C. Joe-Wong, Z. Zhou and X. Chen, Federated Learning at the Edge: An Interplay of Mini-batch Size and Aggregation Frequency, accepted to **IEEE INFOCOM 2023 FOGML WORKSHOP**.
