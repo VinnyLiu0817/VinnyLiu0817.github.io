@@ -1,4 +1,4 @@
-# Master student in Computer Science
+# Master student in SYSU
 
 ## Education
 - M.E., Computer Technology	| Sun Yat-sen University (_Sept. 2021 - Present_), Advisor: [Xiaoxi Zhang](https://openreview.net/profile?id=~Xiaoxi_Zhang1)		        		
