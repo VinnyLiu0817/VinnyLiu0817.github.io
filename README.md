@@ -11,7 +11,7 @@
 - Participated in projects on resource management for collaborative machine learning (supported by NSFC grants)
   
 **Academic Service**
-- Reviewer for Reviewer for IEEE TNSE, BigComm 2022
+- Reviewer for IEEE TNSE 2023, BigComm 2022
 - TA for Programming Design in Sun Yat-sen Univerisity 2022
 
 ## Skills and Interests 
