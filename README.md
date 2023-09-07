@@ -16,7 +16,7 @@
 
 ## Skills and Interests 
 - Programming: Python, MATLAB, Markdown, Latex
-- Languages: Mandarin (native), Cantonese (native), English
+- Languages: Mandarin (native), Cantonese (native), English (IELTS: 7.5)
 - Interests: Federated learning, optimization and algorithm design for machine learning
 
 ## Projects
