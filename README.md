@@ -28,8 +28,9 @@ We propose a novel algorithm, named **CoOptFL**, by quantifying the interplay of
 ![AdaCoOpt](/fig/AdaCoOpt.png)
 
 ## Publications
-1. **W. Liu**, X. Zhang, J. Duan, C. Joe-Wong, Z. Zhou and X. Chen, AdaCoOpt: Leverage the Interplay of Batch Size and Aggregation Frequency for Federated Learning, accepted to **IEEE/ACM IWQoS 2023 (Best Paper Finalist)**.
-2. **W. Liu**, X. Zhang, J. Duan, C. Joe-Wong, Z. Zhou and X. Chen, Federated Learning at the Edge: An Interplay of Mini-batch Size and Aggregation Frequency, accepted to **IEEE INFOCOM 2023 FOGML WORKSHOP**.
+1. **W. Liu**, X. Zhang, J. Duan, C. Joe-Wong, Z. Zhou and X. Chen, DYNAMITE: Dynamic Interplay of Mini-Batch Size and Aggregation Frequency for Federated Learning with Static and Streaming Datasets **IEEE Transactions on Mobile Computing**.
+2. **W. Liu**, X. Zhang, J. Duan, C. Joe-Wong, Z. Zhou and X. Chen, AdaCoOpt: Leverage the Interplay of Batch Size and Aggregation Frequency for Federated Learning, accepted to **IEEE/ACM IWQoS 2023 (Best Paper Finalist)**.
+3. **W. Liu**, X. Zhang, J. Duan, C. Joe-Wong, Z. Zhou and X. Chen, Federated Learning at the Edge: An Interplay of Mini-batch Size and Aggregation Frequency, accepted to **IEEE INFOCOM 2023 FOGML WORKSHOP**.
 
 ## Honors and Awards
 - IEEE/ACM International Symposium on Quality of Service 2023 Best Paper Finalist (2023)
