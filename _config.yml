@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Weijie (Vinny) Liu"
+title                    : "Vinny's Homepage"
 title_separator          : "-"
 name                     : &name "Weijie Liu"
 description              : &description "personal description"
@@ -23,21 +23,21 @@ repository               : "VinnyLiu0817/VinnyLiu0817.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Weijie (Vinny) Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Humble CS/AI PhD in HKU"
+  location         : "Hong Kong/Shen Zhen"
+  employer         : "The University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liuwj0817@connect.hku.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=jBqijFIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-0539-3293"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
