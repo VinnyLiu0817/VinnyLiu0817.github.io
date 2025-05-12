@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Electronic Engineering, The University of Hong Kong, 2024-Present
+* M.E. in Computer Engineering, Sun Yat-sen University, 2021-2024
+* B.E. in Communication Engineering, Sun Yat-sen University, 2017-2021
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -30,16 +30,16 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+Skills and Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Matlab, LaTeX
+* Languages: Mandarin(Native), Cantonese(Native), English (IELTS: 7.5)
+* Research Interests:
+  * Networked Machine Learning (Federated Learning, Distributed Machine Learning)
+  * Deep Learning Theory
+  * Edge Computing and LLM implementation
 
 Publications
 ======
@@ -47,18 +47,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+* Journal Reviewer: IEEE TMC, IEEE TSC, IEEE TNSE, IEEE Network Magazine
+* Conference Reviewer: ACM KDD 2024
