@@ -18,7 +18,7 @@ Recently, I am also enthusiatic about the LLM implementation and applications. I
 
 Recent News
 ======
-* **[May. 2025]** :book: One work about pipeline acceleration in vertical federated learning is accepted to **IWQoS 2025**! Congrats Tian!
+* **[May. 2025]** :book: One paper about pipeline acceleration in vertical federated learning is accepted to **IWQoS 2025**! Congrats Tian!
 
 * **[Mar. 2025]** :book: Our work about investigating and tackling over-correction phenomenon in federated learning is accepted to **ICDCS 2025**! [(Link)](https://arxiv.org/abs/2504.17528)
 
