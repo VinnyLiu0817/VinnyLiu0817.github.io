@@ -41,7 +41,7 @@ Skills and Interests
   * Deep Learning Theory
   * Edge Computing and LLM implementation
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}

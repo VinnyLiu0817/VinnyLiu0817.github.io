@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi:wave:! This is Weijie, and you can also call me Vinny. I am currently a first-year PhD student at **The University of Hong Kong**, under the supervision of **[Prof. Edith C.H. Ngai](https://www.eee.hku.hk/~iotlab/EdithNgai.html).** I received the Bachelor and Master degree in Computer Technology in **Sun Yat-sen University** under the supervision of **[Prof. Xiaoxi Zhang](https://0xxz.github.io).** and **[Prof. Xu Chen](https://sites.google.com/view/xcsysu/home)**. My research strives to shed light on the blackbox of deep learning with solid theoretical analysis and delicate algorithm design, addressing practical problems in deep learning and LLM implementations. 
+Hi:wave:! This is Weijie, you can also call me Vinny. I am currently a first-year PhD student at **The University of Hong Kong**, under the supervision of **[Prof. Edith C.H. Ngai](https://www.eee.hku.hk/~iotlab/EdithNgai.html).** I received the Bachelor and Master degree in Computer Technology in **Sun Yat-sen University** under the supervision of **[Prof. Xiaoxi Zhang](https://0xxz.github.io).** and **[Prof. Xu Chen](https://sites.google.com/view/xcsysu/home)**. My research strives to shed light on the blackbox of deep learning with solid theoretical analysis and delicate algorithm design, addressing practical problems in deep learning and LLM implementations. 
 
 Research interests
 ======
@@ -23,3 +23,5 @@ Recent News
 * **[Mar. 2025]** :book: Our work about investigating and tackling over-correction phenomenon in federated learning is accepted to **ICDCS 2025**! [(Link)](https://arxiv.org/abs/2504.17528)
 
 * **[Dec. 2024]** :trophy: One paper about fine-grained aggregation in Mixture-of-Expert has won the **Best Student Paper Award** in MSN 2024 [(Link)](https://arxiv.org/pdf/2411.02115)! Congrats Ziwei!
+
+* **[Sep. 2024]** :pushpin: Start my Ph.D. at The University of Hong Kong.
