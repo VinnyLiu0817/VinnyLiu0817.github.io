@@ -63,3 +63,9 @@ Academic Service
 ======
 * Journal Reviewer: IEEE TMC, IEEE TSC, IEEE TNSE, IEEE Network Magazine
 * Conference Reviewer: ACM KDD 2024
+
+Award
+======
+* **Best Student Paper Award** in International Conference on Mobility, Sensing and Networking (MSN 2025)
+* **Best Paper Candidate** in IEEE/ACM International Symposium on Quality of Service (IWQoS 2023)
+* Excellent Postgraduate First Prize Scholarship in Sun-Yat-sen University (2021, 2022, 2023)

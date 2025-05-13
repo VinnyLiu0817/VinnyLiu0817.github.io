@@ -8,5 +8,5 @@ date: 2025-03-27
 venue: '<b>ICDCS 2025</b>, Glasgow'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/pdf/2504.17528'
-# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: '<b>Weijie Liu</b>, Ziwei Zhan, Carlee Joe-Wong, Edith Ngai, Jingpu Duan, Deke Guo, Xu Chen, and Xiaoxi Zhang, <b>IEEE ICDCS 2025</b>'
 ---
