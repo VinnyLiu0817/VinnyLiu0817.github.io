@@ -3,7 +3,7 @@ title: "TACO: Tackling Over-correction in Federated Learning with Tailored Adapt
 collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
-#excerpt: 'This paper first investigates and addresses the over-correction phenomenon in federated learning.'
+excerpt: 'This paper provides the first investigation into the hidden over-correction phenomenon in federated learning.'
 date: 2025-03-27
 venue: '<b>ICDCS 2025</b>, Glasgow'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
