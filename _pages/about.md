@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi:wave:! This is Weijie, you can also call me Vinny. I am currently a first-year PhD student at **The University of Hong Kong**, under the supervision of **[Prof. Edith C.H. Ngai](https://www.eee.hku.hk/~iotlab/EdithNgai.html).** I received the Bachelor and Master degree in Computer Technology in **Sun Yat-sen University** under the supervision of **[Prof. Xiaoxi Zhang](https://0xxz.github.io).** and **[Prof. Xu Chen](https://sites.google.com/view/xcsysu/home)**. My research strives to shed light on the blackbox of deep learning with solid theoretical analysis and delicate algorithm design, addressing practical problems in deep learning and LLM implementations. 
+Hi:wave:! This is Weijie, you can also call me Vinny. I am currently a first-year PhD student at **The University of Hong Kong**, under the supervision of **[Prof. Edith C.H. Ngai](https://www.eee.hku.hk/~iotlab/EdithNgai.html).** I received the Bachelor and Master degree in Computer Technology in **Sun Yat-sen University** under the supervision of **[Prof. Xiaoxi Zhang](https://0xxz.github.io),** and **[Prof. Xu Chen](https://sites.google.com/view/xcsysu/home)**. My research strives to shed light on the blackbox of deep learning with solid theoretical analysis and delicate algorithm design, addressing practical problems in deep learning and LLM implementations. 
 
 Research interests
 ======
 * Networked machine learning (federated learning, distributed machine learning)
-* Machine learning theory (model generalization analysis, training convergence analysis)
+* Machine learning theory (model generalization analysis, convergence analysis, etc.)
 
 Recently, I am also enthusiatic about the LLM implementation and applications. I am always open to discussion and collaboration, if you are interested in my research area and paper, you are very welcomed to drop me an [email](liuwj0817@connect.hku.hk).
 
