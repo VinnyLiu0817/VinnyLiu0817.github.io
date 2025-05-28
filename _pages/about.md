@@ -18,10 +18,12 @@ Recently, I am also enthusiatic about the LLM implementation and applications. I
 
 Recent News
 ======
+* **[May. 2025]** :book: One paper about accelerating gradient computation in personalized federated learning is accepted to **Computer Network**! Congrats Ziwei!
+
 * **[May. 2025]** :book: One paper about pipeline acceleration in vertical federated learning is accepted to **IWQoS 2025**! Congrats Tian!
 
 * **[Mar. 2025]** :book: Our work about investigating and tackling over-correction phenomenon in federated learning is accepted to **ICDCS 2025**! [(Link)](https://arxiv.org/abs/2504.17528)
 
-* **[Dec. 2024]** :trophy: One paper about fine-grained aggregation in Mixture-of-Expert has won the **Best Student Paper Award** in MSN 2024 [(Link)](https://arxiv.org/pdf/2411.02115)! Congrats Ziwei!
+* **[Dec. 2024]** :trophy: One paper about fine-grained aggregation in Mixture-of-Expert has won the **Best Student Paper Award** in **MSN 2024** [(Link)](https://arxiv.org/pdf/2411.02115)! Congrats Ziwei!
 
 * **[Sep. 2024]** :pushpin: Start my Ph.D. at The University of Hong Kong.
