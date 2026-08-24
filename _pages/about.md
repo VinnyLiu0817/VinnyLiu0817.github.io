@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi:wave:! This is Weijie, you can also call me Vinny. I am currently a second-year PhD student at **The University of Hong Kong**, under the supervision of **[Prof. Edith C.H. Ngai](https://www.eee.hku.hk/~iotlab/EdithNgai.html).** I received the Bachelor and Master degree in Computer Technology in **Sun Yat-sen University** under the supervision of **[Prof. Xiaoxi Zhang](https://0xxz.github.io),** and **[Prof. Xu Chen](https://sites.google.com/view/xcsysu/home)**. My research strives to shed light on the blackbox of deep learning with solid theoretical analysis and delicate algorithm design, addressing practical problems in deep learning and LLM implementations. 
+Hi:wave:! This is Weijie, you can also call me Vinny. I am currently a second-year PhD student at **The University of Hong Kong**, under the supervision of **[Prof. Edith C.H. Ngai](https://www.eee.hku.hk/~iotlab/EdithNgai.html).** I received the Bachelor and Master degree in Computer Technology in **Sun Yat-sen University** under the supervision of **[Prof. Xiaoxi Zhang](https://0xxz.github.io),** and **[Prof. Xu Chen](https://sites.google.com/view/xcsysu/home)**. My research strives to shed light on the blackbox of deep learning with theoretical analysis and delicate algorithm design, addressing practical problems in deep learning and LLM applications. 
 
 Research interests
 ======
@@ -18,6 +18,10 @@ Recently, I am enthusiatic about LLM implementation and applications. I am alway
 
 Recent News
 ======
+* **[Aug. 2026]** :book: Our work about multi-agent LLM application for paper-code discrepancy detection is accepted to **EMNLP 2026 (Main)**! See you in Budapest :hungary:!
+
+* **[Aug. 2026]** :book: One paper about personalization inertia in LLM agents is accepted to **EMNLP 2026 (Findings)**! Congrats Wenhao!
+
 * **[Aug. 2026]** :book: One paper about multimodal recommendation is accepted to **KDD 2026**! Congrats Jinfeng!
 
 * **[May. 2025]** :book: One paper about accelerating gradient computation in personalized federated learning is accepted to **Computer Network**! Congrats Ziwei!
