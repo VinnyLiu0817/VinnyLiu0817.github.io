@@ -47,6 +47,7 @@ Currently, my research focuses on **Agentic LLM** and **Agent security**, and I 
 
 # 📝 Selected Publications
 
+- [Full publication list](https://scholar.google.com/citations?user=jBqijFIAAAAJ&hl)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 (Main)</div><img src='images/dude.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,7 +63,7 @@ Currently, my research focuses on **Agentic LLM** and **Agent security**, and I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2025</div><img src='images/taco.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TACO: Tackling over-correction in federated learning with tailored adaptive correction](https://arxiv.org/abs/2504.17528)
+[TACO: Tackling Over-correction in Federated Learning with Tailored Adaptive Correction](https://arxiv.org/abs/2504.17528)
 
 **Weijie Liu**, Ziwei Zhan, Carlee Joe-Wong, Edith Ngai, Jingpu Duan, Deke Guo, Xu Chen, Xiaoxi Zhang
 
@@ -74,7 +75,7 @@ Currently, my research focuses on **Agentic LLM** and **Agent security**, and I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/dynamite.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DYNAMITE: Dynamic interplay of mini-batch size and aggregation frequency for federated learning with static and streaming datasets](https://arxiv.org/pdf/2310.14906)
+[DYNAMITE: Dynamic Interplay of Mini-batch Size and Aggregation Frequency for Federated Learning with Static and Streaming Datasets](https://arxiv.org/pdf/2310.14906)
 
 **Weijie Liu**, Xiaoxi Zhang, Jingpu Duan, Carlee Joe-Wong, Zhi Zhou, Xu Chen
 
@@ -86,7 +87,7 @@ Currently, my research focuses on **Agentic LLM** and **Agent security**, and I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2023</div><img src='images/adacoopt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AdaCoOpt: Leverage the interplay of batch size and aggregation frequency for federated learning](https://ieeexplore.ieee.org/abstract/document/10188807)
+[AdaCoOpt: Leverage the Interplay of Batch Size and Aggregation Frequency for Federated Learning](https://ieeexplore.ieee.org/abstract/document/10188807)
 
 **Weijie Liu**, Xiaoxi Zhang, Jingpu Duan, Carlee Joe-Wong, Zhi Zhou, Xu Chen
 
@@ -95,8 +96,6 @@ Currently, my research focuses on **Agentic LLM** and **Agent security**, and I 
 - 🏆 Best Paper Candidate (top 7 over 264 submissions)
 </div>
 </div>
-
-* Click here to see the [full publication list](https://scholar.google.com/citations?user=jBqijFIAAAAJ&hl)
 
 # 🎖 Honors and Awards
 - *2026.08* ICML 2026 Gold Reviewer award 
@@ -107,7 +106,7 @@ Currently, my research focuses on **Agentic LLM** and **Agent security**, and I 
 
 # 🔖 Academic Services
 I served as a reviewer / PC member for the following conferences and journals:
-  - **Conferences:** KDD, ICML, NeurIPS, AAAI
+  - **Conferences:** KDD 2026, ICML 2026, NeurIPS 2026, AAAI 2027, MMM 2027
   - **Journals:**  IEEE TMC, IEEE TSC, IEEE TNSE, IEEE Network Magazine
 
 # 📖 Educations
