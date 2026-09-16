@@ -1,0 +1,20 @@
+current directory: /Users/vinny/Desktop/Important/Website/VinnyLiu0817.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.6.0/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/vinny/Desktop/Important/Website/VinnyLiu0817.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260916-6478-g0ce7j sitelibdir\=./.gem.20260916-6478-g0ce7j clean
+
+current directory: /Users/vinny/Desktop/Important/Website/VinnyLiu0817.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260916-6478-g0ce7j sitelibdir\=./.gem.20260916-6478-g0ce7j
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/vinny/Desktop/Important/Website/VinnyLiu0817.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260916-6478-g0ce7j sitelibdir\=./.gem.20260916-6478-g0ce7j install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260916-6478-g0ce7j/racc
+
+current directory: /Users/vinny/Desktop/Important/Website/VinnyLiu0817.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260916-6478-g0ce7j sitelibdir\=./.gem.20260916-6478-g0ce7j clean
