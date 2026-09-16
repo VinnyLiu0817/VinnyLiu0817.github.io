@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi:wave:! This is Weijie, you can also call me Vinny. I am currently a second-year PhD student at **The University of Hong Kong**, under the supervision of **[Prof. Edith C.H. Ngai](https://www.eee.hku.hk/~iotlab/EdithNgai.html).** I received the Bachelor and Master degree in Computer Technology in **Sun Yat-sen University** under the supervision of **[Prof. Xiaoxi Zhang](https://0xxz.github.io),** and **[Prof. Xu Chen](https://sites.google.com/view/xcsysu/home)**. My research strives to shed light on the blackbox of deep learning with theoretical analysis and delicate algorithm design, addressing practical problems in deep learning and LLM applications. 
+Hi:wave:! This is Weijie, you can also call me Vinny. I am currently a third-year PhD student at **The University of Hong Kong**, under the supervision of **[Prof. Edith C.H. Ngai](https://www.eee.hku.hk/~iotlab/EdithNgai.html).** I received the Bachelor and Master degree in Computer Technology in **Sun Yat-sen University** under the supervision of **[Prof. Xiaoxi Zhang](https://0xxz.github.io),** and **[Prof. Xu Chen](https://sites.google.com/view/xcsysu/home)**. My research strives to shed light on the blackbox of deep learning with theoretical analysis and delicate algorithm design, addressing practical problems in deep learning and LLM applications. 
 
 Research interests
 ======
