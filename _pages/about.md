@@ -19,7 +19,7 @@ redirect_from:
 
 Hi👋! This is Weijie, you may also call me Vinny. 
 
-I am currently a third-year PhD student at **The University of Hong Kong**, under the supervision of **[Prof. Edith C.H. Ngai](https://www.eee.hku.hk/~iotlab/EdithNgai.html).** I received the Bachelor and Master degree in Computer Technology, **Sun Yat-sen University** under the supervision of **[Prof. Xiaoxi Zhang](https://0xxz.github.io),** and **[Prof. Xu Chen](https://sites.google.com/view/xcsysu/home)**. My research strives to shed light on the blackbox of deep learning with theoretical analysis and delicate algorithm design, addressing practical problems in deep learning and LLM applications.
+I am currently a third-year PhD student at **The University of Hong Kong**, under the supervision of [Prof. Edith C.H. Ngai](https://ece.hku.hk/people/echngai/). I received the Bachelor and Master degree in Computer Technology, **Sun Yat-sen University** under the supervision of [Prof. Xiaoxi Zhang](https://0xxz.github.io), and [Prof. Xu Chen](https://sites.google.com/view/xcsysu/home). My research strives to shed light on the blackbox of deep learning with theoretical analysis and delicate algorithm design, addressing practical problems in deep learning and LLM applications.
 
 Currently, my research focuses on **Agentic LLM** and **Agent security**, and I look forward to collaborating with researchers in these fields. Feel free to contact me via Email.
 
